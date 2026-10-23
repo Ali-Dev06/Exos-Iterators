@@ -55,7 +55,8 @@ int main() {
 POUR LANCER : 
 
 
-g++ -O2 -std=c++17 -o vector_vs_list vector-vs-list-insertion-suppression.cpp
+
+g++ -O2 -std=c++17 -o vector_vs_list Vector-Liste-EnTete.cpp
 .\vector_vs_list 
 
 
